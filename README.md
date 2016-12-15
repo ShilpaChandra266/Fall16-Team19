@@ -58,4 +58,14 @@ AnyParty(Role)- manager, organisation
 
 Usecase description: Organisation creates event based on the data of availability of seller and plans for the event. Seller and consumer both are notified by the organisation regarding the event. If seller can’t come to the sale, organisation’s employee will pick the clothes from seller. 
 
+MOBILE APPLICATION
+We Have developed android based mobile application with the following features 
 
+->User have home page where he/she can see active bids.
+->User can also view won bids and lost bids.
+->User can add items to be donated by uploading images of items.
+->User will provide details like item description, category, condition, price at which he/she bought, location about item to be donated 
+->As soon as the user adds the item it will be posted successfully for admin approval.
+->User can see the added item once the admin approves it.
+->User can also place bid for the available items in homepage.
+->Whenever User wins or loses a bid he/she will get notified in either won list or lost list.
